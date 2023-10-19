@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">S23W06Intent</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
+
+<!--
+string.xml을 따로 빼놓은 이유? = 다른 언어들을 지원하기 위해서(국제화)-->
